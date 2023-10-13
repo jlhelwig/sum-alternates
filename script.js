@@ -1,3 +1,4 @@
+//five years ago
 function rowWeights(array){
 let ansArr=[]
 let firstArr=0;
@@ -14,3 +15,4 @@ ansArr.push(firstArr);
 ansArr.push(secondArr);
 return ansArr;
 };
+
